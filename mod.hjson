@@ -1,0 +1,8 @@
+{
+    "name": "meld-schematics",
+    "displayName": "[[]#ea9ad6]Meld[[]]",
+    "author": "Sh1penfire",
+    "description": "Schematics addon mod for Meld. Contains all the wprocs for your mapping needs.",
+    "version": "1",
+    "minGameVersion": "146"
+}
